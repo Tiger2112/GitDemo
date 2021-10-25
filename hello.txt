@@ -4,3 +4,4 @@ master test
 hot fix test
 ssh test
 push test
+push test 2
